@@ -1,6 +1,6 @@
 # bankist
 
-Bankist is a simple banking website built with JavaScript. 
+Bankist is a one-page JavaScript website featuring a minimalist banking company.
 
 The website is deployed and available to use:
 
